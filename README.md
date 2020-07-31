@@ -1,16 +1,10 @@
-# shopping_app
+# Build a Simple Flutter eCommerce UI with Flutter
 
-A new Flutter project.
+In this tutorial we will build a simple Shopping App with Flutter. If you are new to Flutter this is probably the best approach you should start with.
 
-## Getting Started
+## Prerequisites
 
-This project is a starting point for a Flutter application.
+1. Flutter installed on your computer. You can find the stable version here https://github.com/flutter/flutter.git
+1. Know how to create a project and create a project named shopping_app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Let’s Go!
